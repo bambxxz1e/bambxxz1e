@@ -8,7 +8,7 @@
   ---
 
   ### Stack
-  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,java,py,nodejs,php,kotlin)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,java,py,nodejs,php)](https://skillicons.dev)
   
   ### Tool/Collaboration
   [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,androidstudio,pycharm,github,notion,figma)](https://skillicons.dev)
