@@ -20,6 +20,7 @@
 
   ---
   
-  ### GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=bambxxz1e&bg_color=180,00000000,&title_color=000000&text_color=000000"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bambxxz1e&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"/>
+  <a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2F3_l-UI4prVY%3Fsi%3DXEPJrF9y2aq-_z8L&theme=stream">
+  <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2F3_l-UI4prVY%3Fsi%3DXEPJrF9y2aq-_z8L&theme=stream" alt="SoundBadge" />
+</a>
+</a>
